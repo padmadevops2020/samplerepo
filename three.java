@@ -1,2 +1,1 @@
-kjfklasdjflkasdlk
-lkssdjflksjdlk
+println("hello")
